@@ -6,11 +6,13 @@ PyWPS 4.0.0
    :align: center
    :width: 900
 
-.. include:: intro.rst
+.. include:: 01-intro.rst
 
-.. include:: history.rst
+.. include:: 02-history.rst
 
-.. include:: pywps-4.rst
+.. include:: 03-pywps-4.rst
+
+.. include:: 04-osgeo.rst
 
 ***********
 Thank you !
