@@ -47,4 +47,4 @@ Essential PyWPS Functionality
 .. _`Web Processing Service standard`: http://opengeospatial.org/standards/wps
 .. _`Open Geospatial Consortium`:  http://opengeospatial.org
 .. _`Python`: https://python.org
-.. _`Project Steering Committee`: http://pywps.org/development/psc.html
+
