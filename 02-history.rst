@@ -5,67 +5,75 @@ History
 2006
 ----
 
-*  `Jachym Cepicky`_ starts working on a project to link GRASS with UMN Mpserver.
-* Scholarship funded by the `German Foundation for Environment`_.  
-* **September**: PyWPS is presented at `FOSS4G 2006`_.
-* **October**: Porject homepage hosted by `Intevation GmbH`_.
-* **November**: Version 1.0.0 is released; other developers join the project.
+   *  `Jachym Cepicky`_ starts working on a project to link GRASS with UMN Mpserver.
+   * Scholarship funded by the `German Foundation for Environment`_.  
+   * **September**: PyWPS is presented at `FOSS4G 2006`_.
+   * **October**: Porject homepage hosted by `Intevation GmbH`_.
+   * **November**: Version 1.0.0 is released; other developers join the project.
 
 
 2007 - 2010
 -----------
 
-* Version 2.0.0 released in October of 2007:
-   . Introduced the ***Process*** class;
-   . WPS plugin for `OpenLayers`_; 
-   . Improced stability.
+   * Version 2.0.0 released in October of 2007
    
-* Version 3.0.0 released in November of 2008:
-   . New implementation of the WPS 1.0.0 standard.
+    - Introduced the *Process* class;
+    - WPS plugin for `OpenLayers`_; 
+    - Improced stability.
    
-* JavaScript WPS client introduced in 2009 with PyWPS 3.1.0.
+   * Version 3.0.0 released in November of 2008
+   
+    - New implementation of the WPS 1.0.0 standard.
+   
+   * JavaScript WPS client introduced in 2009 with PyWPS 3.1.0.
 
 
 2011
 ----
 
-* The **`WPS Cookbook`**_ is published.
-   . A deliverable of the `ǸETMAR`_ project.
-   . Introduces the WPS standard.
-   . Presents PyWPS as implementation.
-   . Still today a valuable introduction to WPS.   
+   * The `WPS Cookbook`_ is published.
    
-* Staple GIS software in Industry and Academia.    
-* PyWPS featuring regularly in scientific publications. 
+      * A deliverable of the `NETMAR`_ project.
+      * Introduces the WPS standard.
+      * Presents PyWPS as implementation.
+      * Still today a valuable introduction to WPS.   
+      
+   * Staple GIS software in Industry and Academia.    
+   * PyWPS featuring regularly in scientific publications. 
 
 
 2012-2015
 ---------
 
-* 2013 FOSS4G-CEE:
-   . New implementation starts being dicussed;
-   . First lines of code are written.
-
-* 2014 **WPS Workshop** organised by the `Luxembourg Institute of Science and Technology`_ (LIST):
-   . Broad architecture for PyWPS-4 devised;
-   . Move to a new Licence discussed (MIT);
-   . Application to OSGeo
+   * 2013 FOSS4G-CEE:
    
-* Development picks ups throughout 2015: 
-   . Student at LIST;
-   . Google Summer of Code (GSoC).
-
-* PyWPS enters the OSGeo incubation process in April of 2015.
+      * New implementation starts being dicussed;
+      * First lines of code are written.
+   
+   * 2014 **WPS Workshop** organised by the `Luxembourg Institute of Science and Technology`_ (LIST):
+   
+      * Broad architecture for PyWPS-4 devised;
+      * Move to a new Licence discussed (MIT);
+      * Application to OSGeo
+      
+   * Development picks ups throughout 2015: 
+   
+      * Student at LIST;
+      * Google Summer of Code (GSoC).
+   
+   * PyWPS enters the OSGeo incubation process in April of 2015.
 
 
 2016
 ----
 
-* Big push from OSGeo mentorship (Tom Kralidis)
-* Consolidation of documentation and websites.
-   . `PyWPS.org`_ goes live.
-* More successful GSoC applications.
-* Official release of PyWPS 4.0.0 some time this Summer ...
+   * Big push from OSGeo mentorship (Tom Kralidis)
+   * Consolidation of documentation and websites.
+   
+      * `PyWPS.org`_ goes live.
+      
+   * More successful GSoC applications.
+   * Official release of PyWPS 4.0.0 some time this Summer ...
 
 .. _`Jachym Cepicky`: http://les-ejk.cz/
 .. _`FOSS4G 2007 conference`: http://2007.foss4g.org
@@ -74,6 +82,6 @@ History
 .. _`German Foundation for Environment`: http://dbu.de/
 .. _`OpenLayers`: http://openlayers.org/
 .. _`WPS Cookbook`: https://netmar.nersc.no/sites/netmar.nersc.no/files/NETMAR_D7.7_WPS_Cookbook_r1_20111229.pdf
-.. _`ǸETMAR`: https://netmar.nersc.no/ 
+.. _`NETMAR`: https://netmar.nersc.no/ 
 .. _`Luxembourg Institute of Science and Technology`: http://www.list.lu
 .. _`PyWPS.org`: http://www.pywps.org

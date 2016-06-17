@@ -25,22 +25,25 @@ The OGC Web Processing Service
    * OGC open web standard for remote geo-spatial processing.
    * Integrated with web data services: **WFS**, **WCS**.
    * Three basic requests:
+   
       * *GetCapabilities*
       * *DescribeProcess*
       * *Execute*
+      
    * Two basic input/output classes:
+   
       * *Literal*
       * *Complex* - for geo-spatial data and services
       
 Essential PyWPS Functionality
 -----------------------------
 
-   . Communication bridge with WPS.
-   . Fetch input data referenced in *Execute* request.
-   . Create a container for the process instance.
-   . Manage process: communication, reporting, logging.
-   . Output data storage.
-   . Client notification.
+   * Communication bridge with WPS.
+   * Fetch input data referenced in *Execute* request.
+   * Create a container for the process instance.
+   * Manage process: communication, reporting, logging.
+   * Output data storage.
+   * Client notification.
    
 
 

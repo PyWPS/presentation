@@ -8,7 +8,7 @@ Motivation for PyWPS-4
    * PyWPS is now a decade old.
    * Python version 3 taking over.
    * New bindings for other libraries (e.g GRASS).
-   * New data formats (e.g. GeoJSON, KML, TopoJSON).
+   * New data formats (e.g- GeoJSON, KML, TopoJSON).
    * Version 2.0 of the WPS standard.
    * Less restrictive licence (MIT).
    
@@ -29,47 +29,59 @@ Data Validation
 ---------------
 
    * A four step approach:
-      -  ***No validation*** - always considered valid.
-      -  ***Simply validation*** - uses just the *mimeType*.
-      -  ***Strict validation*** - attempts to open *Complex* inputs with GDAL, comparing with *mimeType*.
-      -  ***Very strict validation*** - uses an XML schema.
+   
+      -  *No validation* - always considered valid.
+      -  *Simple validation* - uses just the *mimeType*.
+      -  *Strict validation* - attempts to open *Complex* inputs with GDAL, comparing with *mimeType*.
+      -  *Very strict validation* - uses an XML schema.
 
    * Plus custom validation, already including:
-      . ESRI Shapefile
-      . GeoJASON
-      . GML
-      . GeoTIFF
+   
+      - ESRI Shapefile
+      - GeoJASON
+      - GML
+      - GeoTIFF
       
       
 Process Containerising
 ----------------------
 
    * WPS server should run *Execute* requests concurrently.
-      . but in totally insulated fashion;
-      . no shared resources or data.
+   
+      - but in totally insulated fashion;
+      - no shared resources or data.
+      
    * PyWPS-3:
-      . a temporary folder is created for each *Execute*;
-      . resulting data is moved to publishing folder;
-      . temporary folder is deleted at execution end.
+   
+      - a temporary folder is created for each *Execute*;
+      - resulting data is moved to publishing folder;
+      - temporary folder is deleted at execution end.
+      
    * PyWPS-4 aims at a safer approach:
-      . Docker
-      . vagrant
-      . ...
+   
+      - Docker
+      - vagrant
+      - ...
 
       
 Asynchronous Execution
 ----------------------
 
    * PyWPS can process various *Execute* requests in parallel:
-      . configurable number;
-      . plus a queue of waiting requestes.
+   
+      - configurable number;
+      - plus a queue of waiting requestes.
+      
    * PyWPS-4 now uses the Python *Multiprocessing* module:
-      . *os.fork()* abandoned;
-      . PyWPS now runs on Windows too.
+   
+      - *os.fork()* abandoned;
+      - PyWPS now runs on Windows too.
+      
    * Process metadata now stored in a local SQLite database:
-      . logging;
-      . *Execute* request queueing.
-      . WPS 2.0 functionality to pause and resume processes.
+   
+      - logging;
+      - *Execute* request queueing.
+      - WPS 2.0 functionality to pause and resume processes.
       
       
 Future Work
