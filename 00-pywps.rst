@@ -14,6 +14,8 @@ PyWPS 4.0.0
 
 .. include:: 04-osgeo.rst
 
+.. include:: 05-example.rst
+
 ***********
 Thank you !
 ***********
