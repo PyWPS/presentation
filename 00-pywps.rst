@@ -16,6 +16,8 @@ PyWPS 4.0.0
 
 .. include:: 05-example.rst
 
+.. include:: 06-bikes.rst
+
 ***********
 Thank you !
 ***********
