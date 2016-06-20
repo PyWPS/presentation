@@ -11,6 +11,7 @@ What is PyWPS
     * Supports all tools available in Python for geospatial operations
     * http://pywps.org
 
+
 What PyWPS is *NOT*
 -------------------
 
@@ -18,6 +19,7 @@ What PyWPS is *NOT*
     * a client
     * a GUI
     * a server with pre-installed processes
+    
     
 The OGC Web Processing Service
 ------------------------------
@@ -34,6 +36,17 @@ The OGC Web Processing Service
    
       * *Literal*
       * *Complex* - for geo-spatial data and services
+      
+      
+The OGC Web Processing Service
+------------------------------
+
+.. image:: images/WPS.png
+   :align: center
+   :width: 1000
+      
+http://www.slideshare.net/TheodorFoerster/restful-web-processing-service
+      
       
 Essential PyWPS Functionality
 -----------------------------
