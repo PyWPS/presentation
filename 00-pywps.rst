@@ -22,7 +22,12 @@ PyWPS 4.0.0
 Thank you !
 ***********
 
-    * Name : mail@server.domain
+    Homepage: http://pywps.org/
+    
+    PyWPS-3: https://github.com/geopython/pywps
+    
+    PyWPS-4: https://github.com/PyWPS/pywps-4
+    
 
 *******
 Licence

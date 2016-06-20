@@ -38,11 +38,12 @@ History
       * Presents PyWPS as implementation.
       * Still today a valuable introduction to WPS.   
       
+      
    * Staple GIS software in Industry and Academia.    
    * PyWPS featuring regularly in scientific publications. 
 
 
-2012-2015
+2012-2014
 ---------
 
    * 2013 FOSS4G-CEE:
@@ -56,10 +57,14 @@ History
       * Move to a new Licence discussed (MIT);
       * Application to OSGeo
       
+2015
+----
+      
    * Development picks ups throughout 2015: 
    
       * Student at LIST;
       * Google Summer of Code (GSoC).
+      
    
    * PyWPS enters the OSGeo incubation process in April of 2015.
 
@@ -71,6 +76,7 @@ History
    * Consolidation of documentation and websites.
    
       * `PyWPS.org`_ goes live.
+      
       
    * More successful GSoC applications.
    * Official release of PyWPS 4.0.0 some time this Summer ...

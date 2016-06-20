@@ -6,15 +6,19 @@ Application to OSGeo
 --------------------
 
    * Motion to enter incubation approved in April of 2015.
-   * Application to OSGeoLive under way.
    * Process mentored by Tom Kralidis.
+   * PyWPS-3 to feature in the next OSGeoLive release.
 
 
-Organisation
-------------
 
-    * PyWPS has a `Project Steering Committee`_ (PSC) - currently 5 members
-    * PSC sets the roadmap, sets technical standards, release schedule, code
+Governance
+----------
+
+    * PyWPS now has a `Project Steering Committee`_ (PSC) 
+    
+      - currently composed by 5 members
+    
+    * PSC sets the roadmap, technical standards, release schedule, code
       review, ...
     * Monthly meetings (IRC)
 
@@ -22,8 +26,10 @@ Organisation
 Community
 ---------
 
-    * Mailing list https://lists.osgeo.org/mailman/listinfo/pywps-dev (35
-      members)
+    * Mailing list https://lists.osgeo.org/mailman/listinfo/pywps-dev 
+    
+      - 35 members
+      
     * IRC `#geopython` at `irc.freenode.net` server
     * Attending code sprints, conferences, ...
     
