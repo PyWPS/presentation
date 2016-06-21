@@ -11,5 +11,5 @@ edited on Github.
   footer at least
 
 ```
-rst2pdf --config=config.sample pywps.rst pywps.pdf
+rst2pdf 00-pywps.rst -b2 -s basic.style pywps.pdf
 ```

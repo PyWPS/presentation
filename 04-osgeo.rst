@@ -31,6 +31,7 @@ Community
       - 35 members
       
     * IRC `#geopython` at `irc.freenode.net` server
+    * Gitter https://gitter.im/PyWPS
     * Attending code sprints, conferences, ...
     
     

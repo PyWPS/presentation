@@ -41,7 +41,6 @@ Bikes
 The PyWPS Philosophy
 --------------------
 
-* ***Versatility***: PyWPS can be whatever you want.
+* **Versatility**: PyWPS can be whatever you want.
 
-* ***Ease of use***: you only need to known how to pedal.
-   
+* **Ease of use**: you only need to known how to pedal.
