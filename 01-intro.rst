@@ -32,10 +32,11 @@ The OGC Web Processing Service
       * *DescribeProcess*
       * *Execute*
       
-   * Two basic input/output classes:
+   * Three basic input/output classes:
    
       * *Literal*
       * *Complex* - for geo-spatial data and services
+      * *BouningBox* - for geo-spatial data extent
       
       
 The OGC Web Processing Service

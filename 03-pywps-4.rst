@@ -66,7 +66,7 @@ Asynchronous Execution
    * PyWPS-4 now uses the *Multiprocessing* module:
    
       - *os.fork()* abandoned;
-      - PyWPS now runs on Windows too.
+      - PyWPS *should* now run on Windows too.
       
    * Process metadata now stored in a local SQLite database (logging, request queueing, etc).
    * Local database to support WPS 2.0.

@@ -30,19 +30,19 @@ Folder structure
 
    pywps
    pywps-demo
-   ├── demo.py
-   ├── LICENCE.txt
-   ├── processes                  <- working folder
-   │   ├── area.py
-   │   ├── bboxinout.py
-   │   └── ...
-   ├── pywps.cfg                  <- configurations
-   ├── requirements.txt
-   ├── server.py                     <- run server
-   ├── setup.py
-   ├── static
-   ├── templates
-   └── tests
+   +-- demo.py
+   +-- LICENCE.txt
+   +-- processes          <- working folder
+   |   +-- area.py
+   |   +-- bboxinout.py
+   |   `-- ...
+   +-- pywps.cfg          <- configurations
+   +-- requirements.txt
+   +-- server.py          <- run server
+   +-- setup.py
+   +-- static
+   +-- templates
+   `-- tests
 
 
 Process structure

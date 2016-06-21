@@ -28,6 +28,10 @@ Thank you !
     
     PyWPS-4: https://github.com/PyWPS/pywps-4
     
+   
+.. image:: images/pywps.png
+   :align: right
+   :width: 500
 
 *******
 Licence
