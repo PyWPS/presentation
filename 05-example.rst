@@ -5,11 +5,22 @@ Example
 Installing
 ----------
 
- - Checkout *pywps-4*
- - Checkout *pywps-4-demo*
- - Install dependencies (*requirements.txt*)
- - Install pywps-4
- - Run the demo server
+.. code-block:: bash
+
+	# Checkout *pywps*
+	git clone git@github.com:geopython/pywps.git pywps
+
+	# Checkout *pywps-demo*
+	git clone git@github.com:geopython/pywps-demo.git pywps-demo
+
+	# Install dependencies (*requirements.txt*)
+	cd pywps && pip install -r requirements-dev.txt
+
+	# Install pywps
+	sudo python setup.py install
+
+	# Run the demo server
+	cd ../pywps-demo && python demo.py 
 
 
 Folder structure
@@ -17,17 +28,17 @@ Folder structure
 
 .. code-block:: bash
 
-   pywps-4
-   pywps-4-demo
+   pywps
+   pywps-demo
    ├── demo.py
    ├── LICENCE.txt
-   ├── processes          <- working folder
+   ├── processes                  <- working folder
    │   ├── area.py
    │   ├── bboxinout.py
    │   └── ...
-   ├── pywps.cfg          <- configurations
+   ├── pywps.cfg                  <- configurations
    ├── requirements.txt
-   ├── server.py          <- run server
+   ├── server.py                     <- run server
    ├── setup.py
    ├── static
    ├── templates
