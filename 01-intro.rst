@@ -6,9 +6,10 @@ What is PyWPS
 -------------
 
     * PyWPS is an implementation of the `Web Processing Service standard`_
-      from the `Open Geospatial Consortium`_. PyWPS is written in `Python`_
-    * Started in spring 2006
-    * Supports all tools available in Python for geospatial operations
+      from the `Open Geospatial Consortium`_ 
+    * PyWPS is written in `Python`_
+    * Started in the Spring of 2006
+    * Supports all available tools in Python for geospatial operations
     * http://pywps.org
 
 
@@ -53,9 +54,9 @@ Essential PyWPS Functionality
 -----------------------------
 
    * Communication bridge with WPS.
-   * Fetch input data referenced in *Execute* request.
-   * Create a container for the process instance.
-   * Manage process: communication, reporting, logging.
+   * Fetches input data referenced in *Execute* requests.
+   * Creates a container for the process instance.
+   * Manage processes: communication, reporting, logging.
    * Output data storage.
    * Client notification.
    

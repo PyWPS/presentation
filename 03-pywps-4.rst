@@ -61,7 +61,7 @@ Asynchronous Execution
    * PyWPS can process various *Execute* requests in parallel:
    
       - configurable number;
-      - plus a queue of waiting requestes.
+      - plus a queue of waiting requests.
       
    * PyWPS-4 now uses the *Multiprocessing* module:
    

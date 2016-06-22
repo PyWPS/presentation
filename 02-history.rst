@@ -8,7 +8,7 @@ History
    *  `Jachym Cepicky`_ starts working on a project to link GRASS with UMN Mpserver.
    * Scholarship funded by the `German Foundation for Environment`_.  
    * **September**: PyWPS is presented at `FOSS4G 2006`_.
-   * **October**: Porject homepage hosted by `Intevation GmbH`_.
+   * **October**: Project homepage hosted by `Intevation GmbH`_.
    * **November**: Version 1.0.0 is released; other developers join the project.
 
 
@@ -19,7 +19,7 @@ History
    
     - Introduced the *Process* class;
     - WPS plugin for `OpenLayers`_; 
-    - Improced stability.
+    - Improved stability.
    
    * Version 3.0.0 released in November of 2008
    
@@ -48,7 +48,7 @@ History
 
    * 2013 FOSS4G-CEE:
    
-      * New implementation starts being dicussed;
+      * New implementation starts being discussed;
       * First lines of code are written.
    
    * 2014 **WPS Workshop** organised by the `Luxembourg Institute of Science and Technology`_ (LIST):
