@@ -5,7 +5,7 @@ History
 2006
 ----
 
-   *  `Jachym Cepicky`_ starts working on a project to link GRASS with UMN Mpserver.
+   *  `Jachym Cepicky`_ starts working on a project to link GRASS with UMN Mapserver.
    * Scholarship funded by the `German Foundation for Environment`_.  
    * **September**: PyWPS is presented at `FOSS4G 2006`_.
    * **October**: Project homepage hosted by `Intevation GmbH`_.

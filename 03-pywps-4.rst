@@ -7,7 +7,7 @@ Motivation for PyWPS-4
 
    * PyWPS is now a decade old.
    * Python version 3 taking over.
-   * New bindings for other libraries (e.g GRASS).
+   * New bindings for other libraries (e.g PyGRASS).
    * New data formats (e.g. GeoJSON, KML, TopoJSON).
    * Version 2.0 of the WPS standard.
    * Less restrictive licence (MIT).
@@ -35,7 +35,7 @@ Data Validation
       -  **Strict validation** - attempts to open *Complex* inputs with GDAL, comparing with *mimeType*.
       -  **Very strict validation** - uses an XML schema.
 
-   * Plus custom validation, already including: ESRI Shapefile, GeoJASON, GML, GeoTIFF.
+   * Plus custom validation, already including: ESRI Shapefile, GeoJSON, GML, GeoTIFF.
       
       
 Process Containerising
@@ -68,7 +68,7 @@ Asynchronous Execution
       - *os.fork()* abandoned;
       - PyWPS *should* now run on Windows too.
       
-   * Process metadata now stored in a local SQLite database (logging, request queueing, etc).
+   * Process metadata now stored in a database (SQLite, PostgreSQL - logging, request queueing, etc).
    * Local database to support WPS 2.0.
       
       
