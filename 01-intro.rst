@@ -20,7 +20,10 @@ What PyWPS is *NOT*
     * a client
     * a GUI
     * a server with pre-installed processes
-    
+
+**************************
+OGC Web Processing Service
+**************************
     
 The OGC Web Processing Service
 ------------------------------
@@ -38,8 +41,7 @@ The OGC Web Processing Service
       * *Literal*
       * *Complex* - for geo-spatial data and services
       * *BouningBox* - for geo-spatial data extent
-      
-      
+
 The OGC Web Processing Service
 ------------------------------
 
@@ -57,8 +59,8 @@ Essential PyWPS Functionality
    * Fetches input data referenced in *Execute* requests.
    * Creates a container for the process instance.
    * Manage processes: communication, reporting, logging.
-   * Output data storage.
-   * Client notification.
+   * Data storage for final data outputs.
+   * Client notification, status reporting
    
 
 

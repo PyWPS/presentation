@@ -37,7 +37,7 @@ History
       * Introduces the WPS standard.
       * Presents PyWPS as implementation.
       * Still today a valuable introduction to WPS.   
-      
+      * Practical examples of SOAP envelopes and `Taverna Workflow management system`_
       
    * Staple GIS software in Industry and Academia.    
    * PyWPS featuring regularly in scientific publications. 
@@ -88,6 +88,7 @@ History
 .. _`German Foundation for Environment`: http://dbu.de/
 .. _`OpenLayers`: http://openlayers.org/
 .. _`WPS Cookbook`: https://netmar.nersc.no/sites/netmar.nersc.no/files/NETMAR_D7.7_WPS_Cookbook_r1_20111229.pdf
+.. _`Taverna Workflow management system`: https://taverna.incubator.apache.org/
 .. _`NETMAR`: https://netmar.nersc.no/ 
 .. _`Luxembourg Institute of Science and Technology`: http://www.list.lu
 .. _`PyWPS.org`: http://www.pywps.org

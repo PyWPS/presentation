@@ -68,7 +68,7 @@ Asynchronous Execution
       - *os.fork()* abandoned;
       - PyWPS *should* now run on Windows too.
       
-   * Process metadata now stored in a database (SQLite, PostgreSQL - logging, request queueing, etc).
+   * Process metadata now stored in a database (SQLite, PostgreSQL - logging, request queueing, etc). - GSoC project
    * Local database to support WPS 2.0.
       
       
@@ -79,4 +79,12 @@ Future Work
    * Improved security with process containerising.
    * Administrative web interface.
    * External services to publish outputs.
+   * REST API
    * Support for other languages beyond English.
+
+Administration interface and REST API
+-------------------------------------
+
+.. image:: images/pywps-admin.png
+   :align: center
+   :width: 2000

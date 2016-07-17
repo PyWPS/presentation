@@ -24,9 +24,9 @@ Thank you !
 
     Homepage: http://pywps.org/
     
-    PyWPS-3: https://github.com/geopython/pywps
+    Source code, download: https://github.com/geopython/pywps
     
-    PyWPS-4: https://github.com/PyWPS/pywps-4
+    Twitter: `@PyWPS <https://twitter.com/pywps>`_
     
    
 .. image:: images/pywps.png
