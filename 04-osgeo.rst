@@ -7,7 +7,7 @@ Application to OSGeo
 
    * Motion to enter incubation approved in April of 2015.
    * Process mentored by Tom Kralidis.
-   * PyWPS-3 to feature in the next OSGeoLive release.
+   * PyWPS featured in OSGeoLive 10.
 
 
 

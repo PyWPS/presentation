@@ -40,7 +40,7 @@ The OGC Web Processing Service
    
       * *Literal*
       * *Complex* - for geo-spatial data and services
-      * *BouningBox* - for geo-spatial data extent
+      * *BoundingBox* - for geo-spatial data extent
 
 The OGC Web Processing Service
 ------------------------------
@@ -58,9 +58,9 @@ Essential PyWPS Functionality
    * Communication bridge with WPS.
    * Fetches input data referenced in *Execute* requests.
    * Creates a container for the process instance.
-   * Manage processes: communication, reporting, logging.
+   * Process management: communication, reporting, logging.
    * Data storage for final data outputs.
-   * Client notification, status reporting
+   * Client notification and status reporting.
    
 
 

@@ -5,7 +5,7 @@ History
 2006
 ----
 
-   *  `Jachym Cepicky`_ starts working on a project to link GRASS with UMN Mapserver.
+   *  `Jachym Cepicky`_ starts working on a project to link GRASS with Mapserver.
    * Scholarship funded by the `German Foundation for Environment`_.  
    * **September**: PyWPS is presented at `FOSS4G 2006`_.
    * **October**: Project homepage hosted by `Intevation GmbH`_.
@@ -17,8 +17,8 @@ History
 
    * Version 2.0.0 released in October of 2007
    
-    - Introduced the *Process* class;
-    - WPS plugin for `OpenLayers`_; 
+    - Introduces the *Process* class;
+    - WPS plug-in for `OpenLayers`_; 
     - Improved stability.
    
    * Version 3.0.0 released in November of 2008
@@ -37,7 +37,7 @@ History
       * Introduces the WPS standard.
       * Presents PyWPS as implementation.
       * Still today a valuable introduction to WPS.   
-      * Practical examples of SOAP envelopes and `Taverna Workflow management system`_
+      * Practical examples of SOAP envelopes and the `Taverna Workflow management system`_
       
    * Staple GIS software in Industry and Academia.    
    * PyWPS featuring regularly in scientific publications. 
@@ -60,7 +60,7 @@ History
 2015
 ----
       
-   * Development picks ups throughout 2015: 
+   * Development picks up throughout 2015: 
    
       * Student at LIST;
       * Google Summer of Code (GSoC).

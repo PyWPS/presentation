@@ -69,7 +69,7 @@ Asynchronous Execution
       - PyWPS *should* now run on Windows too.
       
    * Process metadata now stored in a database (SQLite, PostgreSQL - logging, request queueing, etc). - GSoC project
-   * Local database to support WPS 2.0.
+   * Local database will help supporting WPS 2.0.
       
       
 Future Work
