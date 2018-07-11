@@ -8,7 +8,11 @@ Application to OSGeo
    * Motion to enter incubation approved in April of 2015.
    * Process mentored by Tom Kralidis.
    * PyWPS featured in OSGeoLive 10.
+   * PyWPS graduates April 11th 2018
 
+.. image:: https://raw.githubusercontent.com/OSGeo/osgeo/master/incubation/project/OSGeo_project.png
+   :align: right
+   :width: 500
 
 
 Governance
@@ -16,7 +20,7 @@ Governance
 
     * PyWPS now has a `Project Steering Committee`_ (PSC) 
     
-      - currently composed by 5 members
+      - currently composed by 6 members
     
     * PSC sets the roadmap, technical standards, release schedule, code
       review, ...
@@ -28,9 +32,8 @@ Community
 
     * Mailing list https://lists.osgeo.org/mailman/listinfo/pywps-dev 
     
-      - 35 members
+      - 41+8 members
       
-    * IRC `#geopython` at `irc.freenode.net` server
     * Gitter https://gitter.im/PyWPS
     * Attending code sprints, conferences, ...
     

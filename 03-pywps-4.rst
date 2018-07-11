@@ -23,6 +23,7 @@ New Technologies
    * PyPy
    * Jython
    * OWSLib
+   * Docker containers
    
    
 Data Validation
@@ -70,21 +71,29 @@ Asynchronous Execution
       
    * Process metadata now stored in a database (SQLite, PostgreSQL - logging, request queueing, etc). - GSoC project
    * Local database will help supporting WPS 2.0.
+
+PyWPS 4.2
+---------
+    
+    * What's new
+
+        - Template based output generation
+        - WPS 2.0.0 GetCapabilities, more will come
+        - Keeping ComplexInput file names
+        - Scheduler extension - delegate job execution to a batch scheduler system like Slurm, Grid Engine and Torque.
+        - ...
+    
+    * 16 ticketes open 69 closed
       
       
 Future Work
 -----------
 
    * New requests in WPS 2.0: *Pause*, *Release*, *Delete*.
-   * Improved security with process containerising.
+   * Docker containers for process execution - almost there (Master thesis 2018)
    * Administrative web interface.
-   * External services to publish outputs.
    * REST API
+   * External services to publish outputs - S3
+   * Database output storage (SQLite, PostGIS - GSoC 2018)
    * Support for other languages beyond English.
-
-Administration interface and REST API
--------------------------------------
-
-.. image:: images/pywps-admin.png
-   :align: center
-   :width: 2000
+   * Django integration

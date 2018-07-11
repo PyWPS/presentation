@@ -81,6 +81,12 @@ History
    * More successful GSoC applications.
    * Official release of PyWPS 4.0.0 some time this Summer ...
 
+2018
+----
+
+   * More successful GSoC applications.
+   * PyWPS graduates as OSGeo Project
+
 .. _`Jachym Cepicky`: http://les-ejk.cz/
 .. _`FOSS4G 2007 conference`: http://2007.foss4g.org
 .. _`FOSS4G 2006`: http://foss4g2006.org/
