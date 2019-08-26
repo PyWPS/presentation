@@ -44,3 +44,22 @@ The PyWPS Philosophy
 * **Versatility**: PyWPS can be whatever you want.
 
 * **Ease of use**: you only need to known how to pedal.
+
+*************
+Question time
+*************
+
+Question: 1
+-----------
+
+Does PyWPS distribution include complete list of complex processes?
+
+Question: 2
+-----------
+
+Does PyWPS have web based GUI where user can configure everything by clicking?
+
+Question: 3
+-----------
+
+What standard does PyWPS implement?

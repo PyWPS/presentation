@@ -39,3 +39,8 @@ Community
     
     
 .. _`Project Steering Committee`: http://pywps.org/development/psc.html
+
+Failing in
+----------
+
+Fundraising

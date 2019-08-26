@@ -91,9 +91,9 @@ Future Work
 
    * New requests in WPS 2.0: *Pause*, *Release*, *Delete*.
    * Docker containers for process execution - almost there (Master thesis 2018)
-   * Administrative web interface.
+   * Administrative web interface / Django integration
+   * OGC OWS complex output (WCS, WFS, WMS) (used to be there in 3.x)
    * REST API
    * External services to publish outputs - S3
    * Database output storage (SQLite, PostGIS - GSoC 2018)
    * Support for other languages beyond English.
-   * Django integration
