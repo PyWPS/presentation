@@ -1,19 +1,6 @@
-****************
-OSGeo Incubation
-****************
-
-Application to OSGeo
---------------------
-
-   * Motion to enter incubation approved in April of 2015.
-   * Process mentored by Tom Kralidis.
-   * PyWPS featured in OSGeoLive 10.
-   * PyWPS graduates April 11th 2018
-
-.. image:: https://raw.githubusercontent.com/OSGeo/osgeo/master/incubation/project/OSGeo_project.png
-   :align: right
-   :width: 500
-
+*********
+Community
+*********
 
 Governance
 ----------
@@ -43,4 +30,4 @@ Community
 Failing in
 ----------
 
-Fundraising
+* Fundraising

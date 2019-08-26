@@ -2,19 +2,20 @@
 PyWPS-4
 *******
    
-Motivation for PyWPS-4
-----------------------
+.. 
+        Motivation for PyWPS-4
+        ----------------------
 
-   * PyWPS is now a decade old.
-   * Python version 3 taking over.
-   * New bindings for other libraries (e.g PyGRASS).
-   * New data formats (e.g. GeoJSON, KML, TopoJSON).
-   * Version 2.0 of the WPS standard.
-   * Less restrictive licence (MIT).
+        * PyWPS is now a decade old.
+        * Python version 3 taking over.
+        * New bindings for other libraries (e.g PyGRASS).
+        * New data formats (e.g. GeoJSON, KML, TopoJSON).
+        * Version 2.0 of the WPS standard.
+        * Less restrictive licence (MIT).
    
    
-New Technologies
-----------------
+Technologies
+------------
 
    * lxml
    * Flask / Werkzeug
@@ -83,17 +84,19 @@ PyWPS 4.2
         - Scheduler extension - delegate job execution to a batch scheduler system like Slurm, Grid Engine and Torque.
         - ...
     
-    * 16 ticketes open 69 closed
+    * 16 tickets open 69 closed
       
       
-Future Work
------------
+Future challenges
+-----------------
 
    * New requests in WPS 2.0: *Pause*, *Release*, *Delete*.
    * Docker containers for process execution - almost there (Master thesis 2018)
-   * Administrative web interface / Django integration
    * OGC OWS complex output (WCS, WFS, WMS) (used to be there in 3.x)
-   * REST API
+   * OGC GeoAPI  - REST API
    * External services to publish outputs - S3
    * Database output storage (SQLite, PostGIS - GSoC 2018)
    * Support for other languages beyond English.
+    * OGS WPS 2.0 (?)
+    * Merge all the great features people are developing (Docker, Web interface, ...)
+    * Sustainable development

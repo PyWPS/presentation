@@ -1,6 +1,6 @@
-###########
-PyWPS 4.0.0
-###########
+#########
+PyWPS 4.x
+#########
 
 .. image:: images/pywps.png
    :align: center
